@@ -83,6 +83,10 @@ body {
   margin: 0;
 }
 
+.hidden {
+  display:none!important;
+}
+
 .wrap {
   max-width: 666px;
   margin: 60px auto;
